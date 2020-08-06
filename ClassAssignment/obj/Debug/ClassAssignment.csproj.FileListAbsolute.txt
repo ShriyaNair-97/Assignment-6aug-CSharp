@@ -1,0 +1,7 @@
+E:\DotNetConsoleApps\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+E:\DotNetConsoleApps\ClassAssignment\bin\Debug\ClassAssignment.exe
+E:\DotNetConsoleApps\ClassAssignment\bin\Debug\ClassAssignment.pdb
+E:\DotNetConsoleApps\ClassAssignment\obj\Debug\ClassAssignment.csprojAssemblyReference.cache
+E:\DotNetConsoleApps\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+E:\DotNetConsoleApps\ClassAssignment\obj\Debug\ClassAssignment.exe
+E:\DotNetConsoleApps\ClassAssignment\obj\Debug\ClassAssignment.pdb
