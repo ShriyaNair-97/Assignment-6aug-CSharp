@@ -1,0 +1,7 @@
+E:\DotNetConsoleApps\InputOutput\bin\Debug\InputOutput.exe.config
+E:\DotNetConsoleApps\InputOutput\bin\Debug\InputOutput.exe
+E:\DotNetConsoleApps\InputOutput\bin\Debug\InputOutput.pdb
+E:\DotNetConsoleApps\InputOutput\obj\Debug\InputOutput.csprojAssemblyReference.cache
+E:\DotNetConsoleApps\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+E:\DotNetConsoleApps\InputOutput\obj\Debug\InputOutput.exe
+E:\DotNetConsoleApps\InputOutput\obj\Debug\InputOutput.pdb
